@@ -7,7 +7,7 @@ const socials = [
   { icon: <FaGithub />, path: "https://github.com/ATHIRADI" },
   {
     icon: <FaLinkedin />,
-    path: "https://www.linkedin.com/in/arun-kumar-944151240/",
+    path: "https://www.linkedin.com/in/arun-kumar-web/",
   },
   {
     icon: <TbBrandFiverr />,
