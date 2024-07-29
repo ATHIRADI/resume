@@ -24,7 +24,7 @@ const Home = () => {
 
             <div className="mb-9 space-y-5">
               <p className="max-w-[600px]  text-white/80">
-                I'm a highly motivated and results-oriented software developer
+                I am a highly motivated and results-oriented software developer
                 with over 2 years of experience in building modern web and
                 mobile applications. </p>
                   <p>My expertise includes:</p>
@@ -44,7 +44,7 @@ const Home = () => {
                 </li>
               </ul>
               <p className="max-w-[600px]  text-white/80">
-                Explore my work and let's create something amazing together!
+                Explore my work, and let's create something amazing together!
               </p>
             </div>
             <div className="flex flex-col xl:flex-row items-center gap-8">
