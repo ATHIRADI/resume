@@ -26,8 +26,8 @@ const Home = () => {
               <p className="max-w-[600px]  text-white/80">
                 I'm a highly motivated and results-oriented software developer
                 with over 2 years of experience in building modern web and
-                mobile applications. My expertise includes:
-              </p>
+                mobile applications. </p>
+                  <p>My expertise includes:</p>
               <ul className="md:list-disc pl-5  text-white/80">
                 <li>
                   <span className="font-bold text-accent">React & Next.js</span>{" "}
