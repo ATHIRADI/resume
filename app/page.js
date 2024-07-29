@@ -27,7 +27,7 @@ const Home = () => {
                 I am a highly motivated and results-oriented software developer
                 with over 2 years of experience in building modern web and
                 mobile applications. </p>
-                  <p>My expertise includes:</p>
+              <p className="text-white/80">My expertise includes:</p>
               <ul className="md:list-disc pl-5  text-white/80">
                 <li>
                   <span className="font-bold text-accent">React & Next.js</span>{" "}
