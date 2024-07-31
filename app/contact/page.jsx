@@ -30,7 +30,7 @@ const info = [
     title: "Address",
     description: "Tamilnadu, India",
   },
-  // { icon: <FaPhoneAlt />, title: "Phone", description: "+91 8870008107" },
+  { icon: <FaPhoneAlt />, title: "Phone", description: "+91 8870008107" },
 ];
 
 const Contact = () => {
