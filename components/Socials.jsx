@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin, FaTwitter  } from "react-icons/fa";
 import { TbBrandFiverr } from "react-icons/tb";
 
 const socials = [
@@ -11,7 +11,11 @@ const socials = [
   },
   {
     icon: <FaInstagram />,
-    path: "https://www.instagram.com/ig_athiradi/",
+    path: "https://www.instagram.com/athiradi_webdeveloper/",
+  },
+  {
+    icon: <FaTwitter />,
+    path: "https://x.com/arunkumar_web",
   },
   {
     icon: <TbBrandFiverr />,
