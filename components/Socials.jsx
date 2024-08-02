@@ -8,19 +8,8 @@ const socials = [
   {
     icon: <FaLinkedin />,
     path: "https://www.linkedin.com/in/arun-kumar-web/",
-  },
-  {
-    icon: <FaInstagram />,
-    path: "https://www.instagram.com/athiradi_webdeveloper/",
-  },
-  {
-    icon: <FaTwitter />,
-    path: "https://x.com/arunkumar_web",
-  },
-  {
-    icon: <TbBrandFiverr />,
-    path: "https://www.fiverr.com/athiradi",
-  },
+  }
+
 ];
 
 const Socials = ({ containerStyles, iconStyles }) => {
