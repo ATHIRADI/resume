@@ -59,6 +59,19 @@ const projects = [
     image: "/Images/portfolio-3.png",
     live: "https://portfolio-website-1-smoky.vercel.app/",
   },
+  {
+    num: "04",
+    category: "frontend",
+    title: "Portfolio Website",
+
+    stack: [
+      { name: "react" },
+      { name: "Tailwind CSS" },
+      { name: "Next Js" },
+    ],
+    image: "/Images/portfolio-4.png",
+    live: "https://victorwrites.vercel.app/",
+  },
 ];
 
 const Works = () => {
