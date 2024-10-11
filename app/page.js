@@ -23,29 +23,35 @@ const Home = () => {
             </h1>
 
             <div className="mb-9 space-y-5">
-              <p className="max-w-[600px]  text-white/80">
-                I am a highly motivated and results-oriented software developer
-                with over 2 years of experience in building modern web and
-                mobile applications. </p>
-              <p className="text-white/80">My expertise includes:</p>
-              <ul className="md:list-disc pl-5  text-white/80">
-                <li>
-                  <span className="font-bold text-accent">React & Next.js</span>{" "}
-                  - Crafting dynamic and responsive user interfaces.
-                </li>
-                <li>
-                  <span className="font-bold text-accent">MERN Stack</span> -
-                  Proficient in MongoDB, Express.js, React.js, and Node.js for
-                  full-stack development.
-                </li>
-                <li>
-                  <span className="font-bold text-accent">Flutter</span> -
-                  Developing cross-platform mobile applications.
-                </li>
-              </ul>
-              <p className="max-w-[600px]  text-white/80">
-                Explore my work, and let's create something amazing together!
-              </p>
+              // <p className="max-w-[600px]  text-white/80">
+              //   I am a highly motivated and results-oriented software developer
+              //   with over 2 years of experience in building modern web and
+              //   mobile applications. </p>
+              // <p className="text-white/80">My expertise includes:</p>
+              // <ul className="md:list-disc pl-5  text-white/80">
+              //   <li>
+              //     <span className="font-bold text-accent">React & Next.js</span>{" "}
+              //     - Crafting dynamic and responsive user interfaces.
+              //   </li>
+              //   <li>
+              //     <span className="font-bold text-accent">MERN Stack</span> -
+              //     Proficient in MongoDB, Express.js, React.js, and Node.js for
+              //     full-stack development.
+              //   </li>
+              //   <li>
+              //     <span className="font-bold text-accent">Flutter</span> -
+              //     Developing cross-platform mobile applications.
+              //   </li>
+              // </ul>
+              // <p className="max-w-[600px]  text-white/80">
+              //   Explore my work, and let's create something amazing together!
+              // </p>
+
+<p className="max-w-[600px]  text-white/80"> 
+I am a dedicated Flutter developer with two years of experience creating beautiful and functional mobile apps. I specialize in building robust, user-friendly applications with a strong focus on eye-catching UI designs and high performance. I've worked in various industries, including finance, healthcare, and e-commerce, helping businesses grow while delivering great user experiences.
+I stay current with the latest trends in the Flutter ecosystem and am committed to continuous learning and mentoring others. Let's connect and bring your ideas to life!
+    </p>
+    
             </div>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button
