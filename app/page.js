@@ -12,22 +12,14 @@ const Home = () => {
   const handleContactClick = () => {
     router.push("/contact");
   };
-  return (
-    <section className="h-full">
-      <div className="container mx-auto h-full">
-        <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
-          <div className="text-center xl:text-left order-2 xl:order-none">
-            <h1 className=" text-xl mb-6 ">
-              Hello, I'm <br />{" "}
-              <span className="text-accent h1">Arun Kumar</span>
-            </h1>
 
-            <div className="mb-9 space-y-5">
-              // <p className="max-w-[600px]  text-white/80">
+             // <p className="max-w-[600px]  text-white/80">
               //   I am a highly motivated and results-oriented software developer
               //   with over 2 years of experience in building modern web and
               //   mobile applications. </p>
+  
               // <p className="text-white/80">My expertise includes:</p>
+  
               // <ul className="md:list-disc pl-5  text-white/80">
               //   <li>
               //     <span className="font-bold text-accent">React & Next.js</span>{" "}
@@ -43,9 +35,25 @@ const Home = () => {
               //     Developing cross-platform mobile applications.
               //   </li>
               // </ul>
+  
               // <p className="max-w-[600px]  text-white/80">
               //   Explore my work, and let's create something amazing together!
               // </p>
+
+
+  
+  return (
+    <section className="h-full">
+      <div className="container mx-auto h-full">
+        <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
+          <div className="text-center xl:text-left order-2 xl:order-none">
+            <h1 className=" text-xl mb-6 ">
+              Hello, I'm <br />{" "}
+              <span className="text-accent h1">Arun Kumar</span>
+            </h1>
+
+            <div className="mb-9 space-y-5">
+             
 
 <p className="max-w-[600px]  text-white/80"> 
 I am a dedicated Flutter developer with two years of experience creating beautiful and functional mobile apps. I specialize in building robust, user-friendly applications with a strong focus on eye-catching UI designs and high performance. I've worked in various industries, including finance, healthcare, and e-commerce, helping businesses grow while delivering great user experiences.
