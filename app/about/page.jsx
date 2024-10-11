@@ -147,7 +147,7 @@ const about = {
     { fieldName: "Experience", fieldValue: "2+ Years" },
     { fieldName: "Nationality", fieldValue: "Indian" },
     { fieldName: "Languages", fieldValue: "English, Tamil" },
-    { fieldName: "Phone", fieldValue: "(+91) 8870008107" },
+    // { fieldName: "Phone", fieldValue: "(+91) 8870008107" },
     { fieldName: "Email", fieldValue: "athiradiarun@yahoo.com" },
   ],
 };
