@@ -110,8 +110,8 @@ const Contact = () => {
                     <SelectLabel>Select a service</SelectLabel>
                     <SelectItem value="web">Web Development</SelectItem>
                     <SelectItem value="mob">Mobile App Development</SelectItem>
-                    <SelectItem value="opt">Website Optimization</SelectItem>
-                    <SelectItem value="bug">Fixing Bugs</SelectItem>
+{/*                     <SelectItem value="opt">Website Optimization</SelectItem>
+                    <SelectItem value="bug">Fixing Bugs</SelectItem> */}
                   </SelectGroup>
                 </SelectContent>
               </Select>
