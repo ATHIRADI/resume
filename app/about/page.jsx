@@ -36,19 +36,9 @@ const experience = {
   description:
     "With over 2 years of hands-on experience in web and mobile application development, I have honed my skills in modern technologies and frameworks, delivering high-quality solutions for diverse clients.",
   items: [
-    {
-      company: "AJ Infotech Pvt Ltd",
-      position: "Junior Web Developer",
-      duration: "2022 - 2023",
-    },
-    {
-      company: "Codecanyon",
-      position: "Full Stack Developer",
-      duration: "2023 - Present",
-    },
-    {
+      {
       company: "Fiverr",
-      position: "Next.Js Developer",
+      position: "Flutter Developer",
       duration: "2023 - Present",
     },
   ],
