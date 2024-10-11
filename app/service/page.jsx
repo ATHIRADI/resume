@@ -19,21 +19,21 @@ const services = [
     description:
       "Expert mobile app development using Flutter for both iOS and Android platforms. We create user-friendly and highly functional mobile applications that provide a seamless user experience and meet your business objectives.",
     href: "https://www.fiverr.com/athiradi",
-  },
-  {
-    num: 3,
-    title: "Fix Bugs on Your Code",
-    description:
-      "Quick and reliable bug fixing services for your HTML, CSS, JavaScript, React and Next.js applications. Whether it's a critical issue or a minor bug, we troubleshoot and resolve problems efficiently to ensure your application runs smoothly.",
-    href: "https://www.fiverr.com/athiradi",
-  },
-  {
-    num: 4,
-    title: "Custom Portfolio Website Development",
-    description:
-      "Expert development of personalized portfolio websites to showcase your work and skills. We create visually appealing and fully functional websites tailored to your unique style and professional needs.",
-    href: "https://www.fiverr.com/athiradi",
-  },
+  }
+  // {
+  //   num: 3,
+  //   title: "Fix Bugs on Your Code",
+  //   description:
+  //     "Quick and reliable bug fixing services for your HTML, CSS, JavaScript, React and Next.js applications. Whether it's a critical issue or a minor bug, we troubleshoot and resolve problems efficiently to ensure your application runs smoothly.",
+  //   href: "https://www.fiverr.com/athiradi",
+  // },
+  // {
+  //   num: 4,
+  //   title: "Custom Portfolio Website Development",
+  //   description:
+  //     "Expert development of personalized portfolio websites to showcase your work and skills. We create visually appealing and fully functional websites tailored to your unique style and professional needs.",
+  //   href: "https://www.fiverr.com/athiradi",
+  // },
 ];
 
 const Service = () => {
