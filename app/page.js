@@ -56,7 +56,9 @@ const Home = () => {
              
 
 <p className="max-w-[600px]  text-white/80"> 
-I am a dedicated Flutter developer with two years of experience creating beautiful and functional mobile apps. I specialize in building robust, user-friendly applications with a strong focus on eye-catching UI designs and high performance. I've worked in various industries, including finance, healthcare, and e-commerce, helping businesses grow while delivering great user experiences.
+I am a dedicated Flutter developer with two years of experience creating beautiful and functional mobile apps. I specialize in building robust, user-friendly applications with a strong focus on eye-catching UI designs and high performance. 
+I've worked in various industries, including finance, healthcare, and e-commerce, helping businesses grow while delivering great user experiences.  </p>
+<p className="max-w-[600px]  text-white/80"> 
 I stay current with the latest trends in the Flutter ecosystem and am committed to continuous learning and mentoring others. Let's connect and bring your ideas to life!
     </p>
     
