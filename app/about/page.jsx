@@ -83,6 +83,14 @@ const skills = {
     "A diverse set of technical skills spanning web and mobile development, focusing on modern frameworks and technologies.",
   skillList: [
     {
+      icon: <SiFlutter />,
+      name: "Flutter",
+    },
+    {
+      icon: <SiFirebase />,
+      name: "Firebase",
+    },
+    {
       icon: <FaHtml5 />,
       name: "HTML 5",
     },
@@ -110,10 +118,10 @@ const skills = {
       icon: <SiTailwindcss />,
       name: "Tailwind CSS",
     },
-    {
-      icon: <FaSun />,
-      name: "ShadCN UI",
-    },
+    // {
+    //   icon: <FaSun />,
+    //   name: "ShadCN UI",
+    // },
     {
       icon: <FaNodeJs />,
       name: "Node.js",
@@ -125,15 +133,7 @@ const skills = {
     {
       icon: <SiMongodb />,
       name: "MongoDB",
-    },
-    {
-      icon: <SiFlutter />,
-      name: "Flutter",
-    },
-    {
-      icon: <SiFirebase />,
-      name: "Firebase",
-    },
+    }    
   ],
 };
 
