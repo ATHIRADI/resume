@@ -19,16 +19,16 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 const projects = [
   {
     num: "01",
-    category: "frontend",
-    title: "Portfolio Website",
+    category: "Mobile App",
+    title: "Fixed Deposit Calculator",
 
     stack: [
-      { name: "react" },
-      { name: "photoswipe" },
-      { name: "slick carousel" },
+      { name: "flutter" },
+      { name: "google_fonts" },
+      { name: "mobile app" },
     ],
     image: "/Images/portfolio-1.png",
-    live: "https://portfolio-website-2-eosin.vercel.app/",
+    live: "https://github.com/ATHIRADI/fd-calculator-flutter",
   },
   {
     num: "02",
