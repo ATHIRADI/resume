@@ -8,33 +8,19 @@ import { BsArrowRight } from "react-icons/bs";
 const services = [
   {
     num: 1,
-    title: "Web Development",
-    description:
-      "Professional web development services using the latest technologies and frameworks, including React, Next.js, and MERN stack. From building custom websites to developing web applications tailored to your needs, we ensure high-quality and efficient solutions.",
-    href: "https://www.fiverr.com/athiradi",
-  },
-  {
-    num: 2,
     title: "Mobile App Development",
     description:
       "Expert mobile app development using Flutter for both iOS and Android platforms. We create user-friendly and highly functional mobile applications that provide a seamless user experience and meet your business objectives.",
-    href: "https://www.fiverr.com/athiradi",
+    href: "/contact",
+  },
+  {
+    num: 2,
+    title: "Web Development",
+    description:
+      "Professional web development services using the latest technologies and frameworks, including React, Next.js, and MERN stack. From building custom websites to developing web applications tailored to your needs, we ensure high-quality and efficient solutions.",
+    href: "/contact",
   }
-  // {
-  //   num: 3,
-  //   title: "Fix Bugs on Your Code",
-  //   description:
-  //     "Quick and reliable bug fixing services for your HTML, CSS, JavaScript, React and Next.js applications. Whether it's a critical issue or a minor bug, we troubleshoot and resolve problems efficiently to ensure your application runs smoothly.",
-  //   href: "https://www.fiverr.com/athiradi",
-  // },
-  // {
-  //   num: 4,
-  //   title: "Custom Portfolio Website Development",
-  //   description:
-  //     "Expert development of personalized portfolio websites to showcase your work and skills. We create visually appealing and fully functional websites tailored to your unique style and professional needs.",
-  //   href: "https://www.fiverr.com/athiradi",
-  // },
-];
+  ];
 
 const Service = () => {
   return (
