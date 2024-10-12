@@ -27,7 +27,7 @@ const projects = [
       { name: "google_fonts" },
       { name: "mobile app" },
     ],
-    image: "/Images/portfolio-1.png",
+    image: "/Images/fd-calculator.png",
     live: "https://github.com/ATHIRADI/fd-calculator-flutter",
   },
   {
