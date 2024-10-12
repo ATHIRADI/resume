@@ -27,7 +27,7 @@ const projects = [
       { name: "google_fonts" },
       { name: "mobile app" },
     ],
-    image: "/Images/fd-calculator.png",
+    image: "/Images/calc.png",
     live: "https://github.com/ATHIRADI/fd-calculator-flutter",
   },
   {
@@ -64,11 +64,7 @@ const projects = [
     category: "frontend",
     title: "Portfolio Website",
 
-    stack: [
-      { name: "react" },
-      { name: "Tailwind CSS" },
-      { name: "Next Js" },
-    ],
+    stack: [{ name: "react" }, { name: "Tailwind CSS" }, { name: "Next Js" }],
     image: "/Images/portfolio-4.png",
     live: "https://victorwrites.vercel.app/",
   },

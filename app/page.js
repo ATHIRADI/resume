@@ -13,35 +13,6 @@ const Home = () => {
     router.push("/contact");
   };
 
-             // <p className="max-w-[600px]  text-white/80">
-              //   I am a highly motivated and results-oriented software developer
-              //   with over 2 years of experience in building modern web and
-              //   mobile applications. </p>
-  
-              // <p className="text-white/80">My expertise includes:</p>
-  
-              // <ul className="md:list-disc pl-5  text-white/80">
-              //   <li>
-              //     <span className="font-bold text-accent">React & Next.js</span>{" "}
-              //     - Crafting dynamic and responsive user interfaces.
-              //   </li>
-              //   <li>
-              //     <span className="font-bold text-accent">MERN Stack</span> -
-              //     Proficient in MongoDB, Express.js, React.js, and Node.js for
-              //     full-stack development.
-              //   </li>
-              //   <li>
-              //     <span className="font-bold text-accent">Flutter</span> -
-              //     Developing cross-platform mobile applications.
-              //   </li>
-              // </ul>
-  
-              // <p className="max-w-[600px]  text-white/80">
-              //   Explore my work, and let's create something amazing together!
-              // </p>
-
-
-  
   return (
     <section className="h-full">
       <div className="container mx-auto h-full">
@@ -49,19 +20,25 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <h1 className=" text-xl mb-6 ">
               Hello, I'm <br />{" "}
-              <span className="text-accent h1">Arun Kumar</span>
+              <span className="text-accent h2">Arun Kumar</span>
             </h1>
 
             <div className="mb-9 space-y-5">
-             
-
-<p className="max-w-[600px]  text-white/80"> 
-I am a dedicated <span className="text-accent"> Flutter Developer </span> with two years of experience creating beautiful and functional mobile apps. I specialize in building robust, user-friendly applications with a strong focus on eye-catching UI designs and high performance. 
-I've worked in various industries, including finance, healthcare, and e-commerce, helping businesses grow while delivering great user experiences.  </p>
-<p className="max-w-[600px]  text-white/80"> 
-I stay current with the latest trends in the Flutter ecosystem and am committed to continuous learning and mentoring others. Let's connect and bring your ideas to life!
-    </p>
-    
+              <p className="max-w-[800px]  text-white/80">
+                I am a dedicated{" "}
+                <span className="text-accent"> Flutter Developer </span> with
+                two years of experience creating beautiful and functional mobile
+                apps. I specialize in building robust, user-friendly
+                applications with a strong focus on eye-catching UI designs and
+                high performance. I've worked in various industries, including
+                finance, healthcare, and e-commerce, helping businesses grow
+                while delivering great user experiences.{" "}
+              </p>
+              <p className="max-w-[600px]  text-white/80">
+                I stay current with the latest trends in the Flutter ecosystem
+                and am committed to continuous learning and mentoring others.
+                Let's connect and bring your ideas to life!
+              </p>
             </div>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button

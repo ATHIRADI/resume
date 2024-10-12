@@ -19,8 +19,8 @@ const services = [
     description:
       "Professional web development services using the latest technologies and frameworks, including React, Next.js, and MERN stack. From building custom websites to developing web applications tailored to your needs, we ensure high-quality and efficient solutions.",
     href: "/contact",
-  }
-  ];
+  },
+];
 
 const Service = () => {
   return (
@@ -49,7 +49,6 @@ const Service = () => {
                   </div>
                   <Link
                     href={service.href}
-                    target="_blank"
                     className="w-[70px] h-[70px] rounded-full bg-white group-hover:bg-accent transition-all duration-500 flex justify-center items-center hover:-rotate-45"
                   >
                     <BsArrowRight className="text-3xl text-primary rotate-45" />

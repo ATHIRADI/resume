@@ -21,7 +21,7 @@ const Photo = () => {
             opacity: 1,
             transition: { duration: 0.4, delay: 2.4, ease: "easeInOut" },
           }}
-          className="w-[298px] h-[298px] xl:w-[444px] xl:h-[444px] mix-blend-lighten "
+          className="w-[225px] h-[225px] xl:w-[350px] xl:h-[350px] mix-blend-lighten "
         >
           <Image
             src="/Images/me.png"
@@ -42,7 +42,7 @@ const Photo = () => {
         className="absolute " // Adjust the position as needed
       >
         <motion.svg
-          className="w-[315px] h-[315px] xl:w-[515px] xl:h-[515px]"
+          className="w-[238px] h-[238px] xl:w-[400px] xl:h-[400px]"
           fill="transparent"
           viewBox="0 0 505 506"
           xmlns="http://www.w3.org/2000/svg"
