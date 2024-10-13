@@ -32,6 +32,19 @@ const projects = [
   },
   {
     num: "02",
+    category: "Mobile App",
+    title: "Image Picker",
+
+    stack: [
+      { name: "flutter" },
+      { name: "Image Picker" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/Image_picker.png",
+    live: "https://github.com/ATHIRADI/Image-picker-flutter",
+  },
+  {
+    num: "03",
     category: "frontend",
     title: "Portfolio Website",
 
@@ -45,7 +58,7 @@ const projects = [
     live: "https://portfolio-website-3-gray.vercel.app/",
   },
   {
-    num: "03",
+    num: "04",
     category: "frontend",
     title: "Portfolio Website",
 
@@ -60,7 +73,7 @@ const projects = [
     live: "https://portfolio-website-1-smoky.vercel.app/",
   },
   {
-    num: "04",
+    num: "05",
     category: "frontend",
     title: "Portfolio Website",
 
