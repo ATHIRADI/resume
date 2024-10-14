@@ -45,42 +45,56 @@ const projects = [
   },
   {
     num: "03",
-    category: "frontend",
-    title: "Portfolio Website",
+    category: "Mobile App",
+    title: "Time Picker",
 
     stack: [
-      { name: "react" },
-      { name: "CSS" },
-      { name: "photoswipe" },
-      { name: "slick carousel" },
+      { name: "flutter" },
+      { name: "Time Picker" },
+      { name: "mobile app" },
     ],
-    image: "/Images/portfolio-2.png",
-    live: "https://portfolio-website-3-gray.vercel.app/",
+    image: "/Images/time_picker.png",
+    live: "https://github.com/ATHIRADI/time-picker-flutter",
   },
-  {
-    num: "04",
-    category: "frontend",
-    title: "Portfolio Website",
 
-    stack: [
-      { name: "react" },
-      { name: "css" },
-      { name: "sass" },
-      { name: "axios" },
-      { name: "firebase" },
-    ],
-    image: "/Images/portfolio-3.png",
-    live: "https://portfolio-website-1-smoky.vercel.app/",
-  },
-  {
-    num: "05",
-    category: "frontend",
-    title: "Portfolio Website",
+  // {
+  //   num: "03",
+  //   category: "frontend",
+  //   title: "Portfolio Website",
 
-    stack: [{ name: "react" }, { name: "Tailwind CSS" }, { name: "Next Js" }],
-    image: "/Images/portfolio-4.png",
-    live: "https://victorwrites.vercel.app/",
-  },
+  //   stack: [
+  //     { name: "react" },
+  //     { name: "CSS" },
+  //     { name: "photoswipe" },
+  //     { name: "slick carousel" },
+  //   ],
+  //   image: "/Images/portfolio-2.png",
+  //   live: "https://portfolio-website-3-gray.vercel.app/",
+  // },
+  // {
+  //   num: "04",
+  //   category: "frontend",
+  //   title: "Portfolio Website",
+
+  //   stack: [
+  //     { name: "react" },
+  //     { name: "css" },
+  //     { name: "sass" },
+  //     { name: "axios" },
+  //     { name: "firebase" },
+  //   ],
+  //   image: "/Images/portfolio-3.png",
+  //   live: "https://portfolio-website-1-smoky.vercel.app/",
+  // },
+  // {
+  //   num: "05",
+  //   category: "frontend",
+  //   title: "Portfolio Website",
+
+  //   stack: [{ name: "react" }, { name: "Tailwind CSS" }, { name: "Next Js" }],
+  //   image: "/Images/portfolio-4.png",
+  //   live: "https://victorwrites.vercel.app/",
+  // },
 ];
 
 const Works = () => {
