@@ -69,6 +69,19 @@ const projects = [
     image: "/Images/Image_carousel.png",
     live: "https://github.com/ATHIRADI/carousel-flutter",
   },
+  {
+    num: "05",
+    category: "Mobile App",
+    title: "Text Translator",
+
+    stack: [
+      { name: "flutter" },
+      { name: "translator" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/text_translator.png",
+    live: "https://github.com/ATHIRADI/text-translator-flutter",
+  },
 
   // {
   //   num: "03",
