@@ -24,7 +24,7 @@ const projects = [
 
     stack: [
       { name: "flutter" },
-      { name: "google_fonts" },
+      { name: "google fonts" },
       { name: "mobile app" },
     ],
     image: "/Images/calc.png",
@@ -63,7 +63,7 @@ const projects = [
 
     stack: [
       { name: "flutter" },
-      { name: "fan_carousel_image_slider" },
+      { name: "fan carousel image slider" },
       { name: "mobile app" },
     ],
     image: "/Images/Image_carousel.png",
@@ -81,6 +81,21 @@ const projects = [
     ],
     image: "/Images/text_translator.png",
     live: "https://github.com/ATHIRADI/text-translator-flutter",
+  },
+
+  {
+    num: "06",
+    category: "Mobile App",
+    title: "Cryptocurrency Tracker",
+
+    stack: [
+      { name: "flutter" },
+      { name: "http" },
+      { name: "coinGecko API" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/crypto_app.png",
+    live: "https://github.com/ATHIRADI/crypto-app-flutter",
   },
 
   // {
