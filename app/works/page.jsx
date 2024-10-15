@@ -56,6 +56,19 @@ const projects = [
     image: "/Images/time_picker.png",
     live: "https://github.com/ATHIRADI/time-picker-flutter",
   },
+  {
+    num: "04",
+    category: "Mobile App",
+    title: "Image Carousel",
+
+    stack: [
+      { name: "flutter" },
+      { name: "fan_carousel_image_slider" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/Image_carousel.png",
+    live: "https://github.com/ATHIRADI/carousel-flutter",
+  },
 
   // {
   //   num: "03",
