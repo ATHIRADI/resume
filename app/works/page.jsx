@@ -98,6 +98,20 @@ const projects = [
     live: "https://github.com/ATHIRADI/crypto-app-flutter",
   },
 
+  {
+    num: "07",
+    category: "Mobile App",
+    title: "Currency Converter",
+
+    stack: [
+      { name: "flutter" },
+      { name: "http" },
+      { name: "exchange Rate API" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/currency_convertor.png",
+    live: "https://github.com/ATHIRADI/currency-convertor-flutter",
+  },
   // {
   //   num: "03",
   //   category: "frontend",
