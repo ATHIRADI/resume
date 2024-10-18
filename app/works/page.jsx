@@ -97,7 +97,6 @@ const projects = [
     image: "/Images/crypto_app.png",
     live: "https://github.com/ATHIRADI/crypto-app-flutter",
   },
-
   {
     num: "07",
     category: "Mobile App",
@@ -111,6 +110,21 @@ const projects = [
     ],
     image: "/Images/currency_convertor.png",
     live: "https://github.com/ATHIRADI/currency-convertor-flutter",
+  },
+
+  {
+    num: "08",
+    category: "Mobile App",
+    title: "Shopping Cart",
+
+    stack: [
+      { name: "flutter" },
+      { name: "http" },
+      { name: "exchange Rate API" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/shopping_cart.png",
+    live: "https://github.com/ATHIRADI/shopping-cart-flutter",
   },
   // {
   //   num: "03",
