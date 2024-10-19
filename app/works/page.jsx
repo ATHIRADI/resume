@@ -129,6 +129,19 @@ const projects = [
     image: "/Images/shimmer_effect_loading .png",
     live: "https://github.com/ATHIRADI/shimmer-loading-flutter",
   },
+
+  {
+    num: "10",
+    category: "Mobile App",
+    title: "URL Launcher in Flutter",
+    stack: [
+      { name: "flutter" },
+      { name: "url launcher" },
+      { name: "mobile app" },
+    ],
+    image: "/Images/url_launcher.png",
+    live: "https://github.com/ATHIRADI/url-launcher-flutter",
+  },
 ];
 
 const Works = () => {
