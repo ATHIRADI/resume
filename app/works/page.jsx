@@ -27,7 +27,7 @@ const projects = [
       { name: "google fonts" },
       { name: "mobile app" },
     ],
-    image: "/Images/calc.png",
+    image: "/Images/fd_calculator.png",
     live: "https://github.com/ATHIRADI/fd-calculator-flutter",
   },
   {
@@ -117,53 +117,18 @@ const projects = [
     category: "Mobile App",
     title: "Shopping Cart",
 
-    stack: [
-      { name: "flutter" },
-      { name: "http" },
-      { name: "exchange Rate API" },
-      { name: "mobile app" },
-    ],
+    stack: [{ name: "flutter" }, { name: "provider" }, { name: "mobile app" }],
     image: "/Images/shopping_cart.png",
     live: "https://github.com/ATHIRADI/shopping-cart-flutter",
   },
-  // {
-  //   num: "03",
-  //   category: "frontend",
-  //   title: "Portfolio Website",
-
-  //   stack: [
-  //     { name: "react" },
-  //     { name: "CSS" },
-  //     { name: "photoswipe" },
-  //     { name: "slick carousel" },
-  //   ],
-  //   image: "/Images/portfolio-2.png",
-  //   live: "https://portfolio-website-3-gray.vercel.app/",
-  // },
-  // {
-  //   num: "04",
-  //   category: "frontend",
-  //   title: "Portfolio Website",
-
-  //   stack: [
-  //     { name: "react" },
-  //     { name: "css" },
-  //     { name: "sass" },
-  //     { name: "axios" },
-  //     { name: "firebase" },
-  //   ],
-  //   image: "/Images/portfolio-3.png",
-  //   live: "https://portfolio-website-1-smoky.vercel.app/",
-  // },
-  // {
-  //   num: "05",
-  //   category: "frontend",
-  //   title: "Portfolio Website",
-
-  //   stack: [{ name: "react" }, { name: "Tailwind CSS" }, { name: "Next Js" }],
-  //   image: "/Images/portfolio-4.png",
-  //   live: "https://victorwrites.vercel.app/",
-  // },
+  {
+    num: "09",
+    category: "Mobile App",
+    title: "Shimmer Effect Loading in Flutter",
+    stack: [{ name: "flutter" }, { name: "shimmer" }, { name: "mobile app" }],
+    image: "/Images/shimmer_effect_loading .png",
+    live: "https://github.com/ATHIRADI/shimmer-loading-flutter",
+  },
 ];
 
 const Works = () => {
