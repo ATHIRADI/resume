@@ -142,6 +142,18 @@ const projects = [
     image: "/Images/url_launcher.png",
     live: "https://github.com/ATHIRADI/url-launcher-flutter",
   },
+  {
+    num: "11",
+    category: "Mobile App",
+    title: "Meditation App Project",
+    stack: [
+      { name: "flutter" },
+      { name: "flutter_staggered_grid_view" },
+      { name: "mobile app" },
+    ],
+    image: "",
+    live: "https://github.com/ATHIRADI/meditation-app",
+  },
 ];
 
 const Works = () => {
