@@ -134,7 +134,7 @@ const about = {
   info: [
     { fieldName: "Name", fieldValue: "Arun Kumar" },
     { fieldName: "Freelance", fieldValue: "Available" },
-    { fieldName: "Experience", fieldValue: "2+ Years" },
+    { fieldName: "Experience", fieldValue: "0+ Years" },
     { fieldName: "Nationality", fieldValue: "Indian" },
     { fieldName: "Languages", fieldValue: "English, Tamil" },
     // { fieldName: "Phone", fieldValue: "(+91) 8870008107" },
