@@ -36,8 +36,8 @@ const experience = {
   description:
     "With over 2 years of hands-on experience in web and mobile application development, I have honed my skills in modern technologies and frameworks, delivering high-quality solutions for diverse clients.",
   items: [
-      {
-      company: "Fiverr",
+    {
+      company: "None",
       position: "Flutter Developer",
       duration: "2023 - Present",
     },
@@ -123,7 +123,7 @@ const skills = {
     {
       icon: <SiMongodb />,
       name: "MongoDB",
-    }    
+    },
   ],
 };
 

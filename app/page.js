@@ -24,7 +24,7 @@ const Home = () => {
             </h1>
 
             <div className="mb-9 space-y-5">
-              <p className="max-w-[800px]  text-white/80">
+              {/* <p className="max-w-[800px]  text-white/80">
                 I am a dedicated{" "}
                 <span className="text-accent"> Flutter Developer </span> with
                 two years of experience creating beautiful and functional mobile
@@ -38,6 +38,20 @@ const Home = () => {
                 I stay current with the latest trends in the Flutter ecosystem
                 and am committed to continuous learning and mentoring others.
                 Let's connect and bring your ideas to life!
+              </p> */}
+
+              <p className="max-w-[800px]  text-white/80">
+                I am a passionate{" "}
+                <span className="text-accent"> Flutter Developer </span> eager
+                to create functional and visually appealing mobile applications.
+                Focusing on clean UI designs and smooth performance, I strive to
+                deliver user-friendly apps that adhere to modern standards.
+              </p>
+              <p className="max-w-[600px]  text-white/80">
+                I continuously learn and keep up with the latest trends in the
+                Flutter ecosystem to improve my skills and contribute
+                effectively to projects. Let's connect and turn your ideas into
+                reality!
               </p>
             </div>
             <div className="flex flex-col xl:flex-row items-center gap-8">
