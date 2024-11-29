@@ -154,6 +154,14 @@ const projects = [
     image: "",
     live: "https://github.com/ATHIRADI/meditation-app",
   },
+  {
+    num: "12",
+    category: "Mobile App",
+    title: "Movie App Project",
+    stack: [{ name: "flutter" }, { name: "html parse " }, { name: "http" }],
+    image: "/Images/movie_app.png",
+    live: "https://github.com/ATHIRADI/movie-app-flutter",
+  },
 ];
 
 const Works = () => {
