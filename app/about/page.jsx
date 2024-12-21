@@ -37,9 +37,9 @@ const experience = {
     "With over 2 years of hands-on experience in web and mobile application development, I have honed my skills in modern technologies and frameworks, delivering high-quality solutions for diverse clients.",
   items: [
     {
-      company: "None",
+      company: "Freelance",
       position: "Flutter Developer",
-      duration: "2023 - Present",
+      duration: "2022 - Present",
     },
   ],
 };
@@ -134,7 +134,7 @@ const about = {
   info: [
     { fieldName: "Name", fieldValue: "Arun Kumar" },
     { fieldName: "Freelance", fieldValue: "Available" },
-    { fieldName: "Experience", fieldValue: "0+ Years" },
+    { fieldName: "Experience", fieldValue: "2+ Years" },
     { fieldName: "Nationality", fieldValue: "Indian" },
     { fieldName: "Languages", fieldValue: "English, Tamil" },
     // { fieldName: "Phone", fieldValue: "(+91) 8870008107" },
