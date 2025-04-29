@@ -18,42 +18,28 @@ const Home = () => {
       <div className="container mx-auto h-full">
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <h1 className=" text-xl mb-6 ">
-              Hello, I'm <br />{" "}
+            <h1 className="text-xl mb-6">
+              Hello, I'm <br />
               <span className="text-accent h2">Arun Kumar</span>
             </h1>
 
             <div className="mb-9 space-y-5">
-              {/* <p className="max-w-[800px]  text-white/80">
-                I am a dedicated{" "}
-                <span className="text-accent"> Flutter Developer </span> with
-                two years of experience creating beautiful and functional mobile
-                apps. I specialize in building robust, user-friendly
-                applications with a strong focus on eye-catching UI designs and
-                high performance. I've worked in various industries, including
-                finance, healthcare, and e-commerce, helping businesses grow
-                while delivering great user experiences.{" "}
+              <p className="max-w-[800px] text-white/80">
+                Web & Mobile App Developer with hands-on experience building
+                real-world projects using{" "}
+                <span className="text-accent">
+                  HTML, CSS, JavaScript, React.js, Next.js, Flutter, Firebase,
+                  Node.js, and PHP.
+                </span>{" "}
+                Completed BCA in 2016 and a MERN Stack course in 2022.
               </p>
-              <p className="max-w-[600px]  text-white/80">
-                I stay current with the latest trends in the Flutter ecosystem
-                and am committed to continuous learning and mentoring others.
-                Let's connect and bring your ideas to life!
-              </p> */}
-
-              <p className="max-w-[800px]  text-white/80">
-                I am a passionate{" "}
-                <span className="text-accent"> Flutter Developer </span> eager
-                to create functional and visually appealing mobile applications.
-                Focusing on clean UI designs and smooth performance, I strive to
-                deliver user-friendly apps that adhere to modern standards.
-              </p>
-              <p className="max-w-[600px]  text-white/80">
-                I continuously learn and keep up with the latest trends in the
-                Flutter ecosystem to improve my skills and contribute
-                effectively to projects. Let's connect and turn your ideas into
-                reality!
+              <p className="max-w-[600px] text-white/80">
+                Eager to join a professional team and contribute with practical,
+                self-learned development experience. Passionate about clean UI
+                design, smooth performance, and modern development practices.
               </p>
             </div>
+
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button
                 variant="outline"
