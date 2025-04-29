@@ -21,7 +21,10 @@ import {
   FaNodeJs,
   FaReact,
   FaSun,
+  FaPhp 
 } from "react-icons/fa";
+import { DiMysql } from "react-icons/di";
+
 import {
   SiExpress,
   SiFirebase,
@@ -30,6 +33,8 @@ import {
   SiNextdotjs,
   SiTailwindcss,
 } from "react-icons/si";
+import { RiSupabaseFill } from "react-icons/ri";
+
 
 const experience = {
   title: "Experience",
@@ -121,15 +126,19 @@ const skills = {
       name: "MongoDB",
     },
     {
-      icon: <i className="devicon-php-plain text-6xl" />, // PHP icon via class
+      icon: <FaPhp />, // PHP icon via class
       name: "PHP",
     },
     {
-      icon: <i className="devicon-mysql-plain text-6xl" />, // MySQL icon via class
+      icon: <DiMysql  />, // MySQL icon via class
       name: "MySQL",
     },
     {
-      icon: <i className="devicon-supabase-plain text-6xl" />, // Supabase icon via class
+      icon: <Bootstrap  />, // MySQL icon via class
+      name: "Bootstrap 5",
+    },
+    {
+      icon: <RiSupabaseFill />, // Supabase icon via class
       name: "Supabase",
     },
   ],
