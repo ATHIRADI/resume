@@ -21,8 +21,7 @@ import {
   FaNodeJs,
   FaReact,
   FaSun,
-  FaPhp,
-  FaBootstrap 
+  FaPhp, 
 } from "react-icons/fa";
 import { DiMysql } from "react-icons/di";
 
@@ -133,10 +132,6 @@ const skills = {
     {
       icon: <DiMysql  />, // MySQL icon via class
       name: "MySQL",
-    },
-    {
-      icon: <Bootstrap  />, // MySQL icon via class
-      name: "Bootstrap 5",
     },
     {
       icon: <RiSupabaseFill />, // Supabase icon via class
