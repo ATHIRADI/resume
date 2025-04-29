@@ -39,12 +39,12 @@ import { RiSupabaseFill } from "react-icons/ri";
 const experience = {
   title: "Experience",
   description:
-    "With over 2 years of hands-on experience in web and mobile application development, I have honed my skills in modern technologies and frameworks, delivering high-quality solutions for diverse clients.",
+    "With over 0+ years of hands-on experience in web and mobile application development, I have honed my skills in modern technologies and frameworks, delivering high-quality solutions for diverse clients.",
   items: [
     {
       company: "Freelance",
       position: "Web & Mobile App Developer",
-      duration: "2022 - Present",
+      duration: "2025 - Present",
     },
   ],
 };
@@ -149,7 +149,7 @@ const about = {
   info: [
     { fieldName: "Name", fieldValue: "Arun Kumar" },
     { fieldName: "Freelance", fieldValue: "Available" },
-    { fieldName: "Experience", fieldValue: "2+ Years" },
+    { fieldName: "Experience", fieldValue: "0+ Years" },
     { fieldName: "Nationality", fieldValue: "Indian" },
     { fieldName: "Languages", fieldValue: "English, Tamil" },
     // { fieldName: "Phone", fieldValue: "(+91) 8870008107" },
