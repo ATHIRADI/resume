@@ -21,7 +21,8 @@ import {
   FaNodeJs,
   FaReact,
   FaSun,
-  FaPhp 
+  FaPhp,
+  FaBootstrap 
 } from "react-icons/fa";
 import { DiMysql } from "react-icons/di";
 
