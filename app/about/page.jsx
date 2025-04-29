@@ -77,18 +77,7 @@ const skills = {
   description:
     "A diverse set of technical skills spanning web and mobile development, focusing on modern frameworks and technologies.",
   skillList: [
-    {
-      icon: <SiFlutter />,
-      name: "Flutter",
-    },
-    {
-      icon: <RiSupabaseFill />, // Supabase icon via class
-      name: "Supabase",
-    },
-    {
-      icon: <SiFirebase />,
-      name: "Firebase",
-    },
+    
     {
       icon: <FaHtml5 />,
       name: "HTML 5",
@@ -137,6 +126,18 @@ const skills = {
       icon: <FaBootstrap />,
       name: "Bootstrap",
     },
+    {
+      icon: <SiFlutter />,
+      name: "Flutter",
+    },
+    {
+      icon: <RiSupabaseFill />, // Supabase icon via class
+      name: "Supabase",
+    },
+    {
+      icon: <SiFirebase />,
+      name: "Firebase",
+    }
   ],
 };
 
