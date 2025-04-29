@@ -82,6 +82,10 @@ const skills = {
       name: "Flutter",
     },
     {
+      icon: <RiSupabaseFill />, // Supabase icon via class
+      name: "Supabase",
+    },
+    {
       icon: <SiFirebase />,
       name: "Firebase",
     },
@@ -96,10 +100,6 @@ const skills = {
     {
       icon: <FaJsSquare />,
       name: "JavaScript",
-    },
-    {
-      icon: <FaBootstrap />,
-      name: "Bootstrap",
     },
     {
       icon: <FaReact />,
@@ -134,8 +134,8 @@ const skills = {
       name: "MySQL",
     },
     {
-      icon: <RiSupabaseFill />, // Supabase icon via class
-      name: "Supabase",
+      icon: <FaBootstrap />,
+      name: "Bootstrap",
     },
   ],
 };
