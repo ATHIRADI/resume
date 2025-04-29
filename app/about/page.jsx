@@ -38,7 +38,7 @@ const experience = {
   items: [
     {
       company: "Freelance",
-      position: "Flutter Developer",
+      position: "Web & Mobile App Developer",
       duration: "2022 - Present",
     },
   ],
@@ -108,10 +108,6 @@ const skills = {
       icon: <SiTailwindcss />,
       name: "Tailwind CSS",
     },
-    // {
-    //   icon: <FaSun />,
-    //   name: "ShadCN UI",
-    // },
     {
       icon: <FaNodeJs />,
       name: "Node.js",
@@ -124,8 +120,21 @@ const skills = {
       icon: <SiMongodb />,
       name: "MongoDB",
     },
+    {
+      icon: <i className="devicon-php-plain text-6xl" />, // PHP icon via class
+      name: "PHP",
+    },
+    {
+      icon: <i className="devicon-mysql-plain text-6xl" />, // MySQL icon via class
+      name: "MySQL",
+    },
+    {
+      icon: <i className="devicon-supabase-plain text-6xl" />, // Supabase icon via class
+      name: "Supabase",
+    },
   ],
 };
+
 
 const about = {
   title: "About me",
