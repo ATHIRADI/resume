@@ -6,18 +6,25 @@ import React from "react";
 import { BsArrowRight } from "react-icons/bs";
 
 const services = [
-  {
+    {
     num: 1,
-    title: "Mobile App Development",
+    title: "Web Development",
     description:
-      "Expert mobile app development using Flutter for both iOS and Android platforms. We create user-friendly and highly functional mobile applications that provide a seamless user experience and meet your business objectives.",
+      "Professional web development services using the latest technologies and frameworks, including React, Next.js, and MERN stack. From building custom websites to developing web applications tailored to your needs, we ensure high-quality and efficient solutions.",
     href: "/contact",
   },
   {
     num: 2,
-    title: "Web Development",
+    title: "Browser Extension Development",
     description:
-      "Professional web development services using the latest technologies and frameworks, including React, Next.js, and MERN stack. From building custom websites to developing web applications tailored to your needs, we ensure high-quality and efficient solutions.",
+      "We build powerful and lightweight browser extensions for Chrome, Firefox, Edge, and more. Whether it's automation, productivity tools, or custom integrations with APIs, our extensions are tailored to solve real-world problems with excellent UI and performance.",
+    href: "/contact",
+  },
+  {
+    num: 3,
+    title: "Mobile App Development",
+    description:
+      "Expert mobile app development using Flutter for both iOS and Android platforms. We create user-friendly and highly functional mobile applications that provide a seamless user experience and meet your business objectives.",
     href: "/contact",
   },
 ];
