@@ -33,11 +33,11 @@ const Home = () => {
                 </span>{" "}
                 Completed BCA in 2016 and a MERN Stack course in 2022.
               </p>
-              // <p className="max-w-[600px] text-white/80">
-              //   Eager to join a professional team and contribute with practical,
-              //   self-learned development experience. Passionate about clean UI
-              //   design, smooth performance, and modern development practices.
-              // </p>
+             {/* <p className="max-w-[600px] text-white/80">
+                 Eager to join a professional team and contribute with practical,
+                 self-learned development experience. Passionate about clean UI
+                design, smooth performance, and modern development practices.
+               </p> */}
             </div>
 
             <div className="flex flex-col xl:flex-row items-center gap-8">
