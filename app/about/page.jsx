@@ -44,7 +44,7 @@ const experience = {
     {
       company: "Freelance",
       position: "Web & Mobile App Developer",
-      duration: "2025 - Present",
+      duration: "2023 - Present",
     },
   ],
 };
@@ -149,10 +149,10 @@ const about = {
   info: [
     { fieldName: "Name", fieldValue: "Arun Kumar" },
     { fieldName: "Freelance", fieldValue: "Available" },
-    { fieldName: "Experience", fieldValue: "0+ Years" },
+    { fieldName: "Experience", fieldValue: "2+ Years" },
     { fieldName: "Nationality", fieldValue: "Indian" },
     { fieldName: "Languages", fieldValue: "English, Tamil" },
-    // { fieldName: "Phone", fieldValue: "(+91) 8870008107" },
+    // { fieldName: "Phone", fieldValue: "(+91) " },
     { fieldName: "Email", fieldValue: "athiradiarun@yahoo.com" },
   ],
 };
