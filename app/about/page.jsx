@@ -43,12 +43,12 @@ const experience = {
   items: [
     {
       company: "AJ INFOTECH",
-      position: Mobile App Developer Intern",
+      position: "Mobile App Developer Intern",
       duration: "2024 - 2024",
     },
      {
       company: "Redpulse Software LLP",
-      position: Frontend Developer Intern",
+      position: "Frontend Developer Intern",
       duration: "2025 - Present",
     },
   ],
