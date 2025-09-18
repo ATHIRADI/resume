@@ -25,19 +25,17 @@ const Home = () => {
 
             <div className="mb-9 space-y-5">
               <p className="max-w-[800px] text-white/80">
-                Web & Mobile App Developer with hands-on experience building
-                real-world projects using{" "}
+                Full-Stack Web &amp; Mobile Developer with practical experience
+                delivering high-quality, production-ready applications for both
+                web and mobile platforms. Proficient in{" "}
                 <span className="text-accent">
-                  HTML, CSS, JavaScript, React.js, Next.js, Flutter, Firebase,
-                  Node.js, and PHP.
+                  MERN, Flutter, and Laravel
                 </span>{" "}
-                Completed BCA in 2016 and a MERN Stack course in 2022.
+                stacks, with a strong focus on clean architecture, responsive
+                UI/UX, and RESTful APIs. Demonstrated ability to work
+                effectively in agile teams and independently lead projects from
+                concept to deployment.
               </p>
-             {/* <p className="max-w-[600px] text-white/80">
-                 Eager to join a professional team and contribute with practical,
-                 self-learned development experience. Passionate about clean UI
-                design, smooth performance, and modern development practices.
-               </p> */}
             </div>
 
             <div className="flex flex-col xl:flex-row items-center gap-8">
@@ -58,6 +56,7 @@ const Home = () => {
               </div>
             </div>
           </div>
+
           <div className="order-1 xl:order-none mb-8 xl:mb-0">
             <Photo />
           </div>
