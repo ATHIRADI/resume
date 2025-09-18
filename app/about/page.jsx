@@ -42,9 +42,14 @@ const experience = {
     "With over 0+ years of hands-on experience in web and mobile application development, I have honed my skills in modern technologies and frameworks, delivering high-quality solutions for diverse clients.",
   items: [
     {
-      company: "Freelance",
-      position: "Web & Mobile App Developer",
-      duration: "2023 - Present",
+      company: "AJ INFOTECH",
+      position: Mobile App Developer Intern",
+      duration: "2024 - 2024",
+    },
+     {
+      company: "Redpulse Software LLP",
+      position: Frontend Developer Intern",
+      duration: "2025 - Present",
     },
   ],
 };
@@ -52,7 +57,7 @@ const experience = {
 const education = {
   title: "Education",
   description:
-    "A comprehensive background in computer applications and full stack development, complemented by specialized training in web development.",
+    "A comprehensive background in computer applications and full-stack development, complemented by specialized training in web development.",
   items: [
     {
       institution: "Bharathidasan University",
